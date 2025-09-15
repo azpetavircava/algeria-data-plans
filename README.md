@@ -1,2 +1,3 @@
 # algeria-data-plans
-Algeria Data-only plans guides
+
+全球通信 README（占位）
