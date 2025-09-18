@@ -72,3 +72,10 @@ layout: default
 
 　　最后，保持一颗平常心。这里的网络体验可能不如国内那么丝滑顺畅，但在撒哈拉沙漠的边缘还能发条朋友圈，本身不就是件很酷的事吗？旅途中的小插曲，回过头看都是故事。
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Algeria SIM 卡购买与激活指南](https://faciylike.github.io/algeria-sim-guides)
